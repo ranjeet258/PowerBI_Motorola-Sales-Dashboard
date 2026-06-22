@@ -1,0 +1,51 @@
+#,Brand,Product,Category,Key Features,Price (INR)
+1,Apple,AirPods Pro (2nd Gen),TWS Earbuds,"ANC, Transparency Mode, H2 chip, MagSafe case, 30h total",26900
+2,Apple,AirPods Max (USB-C),Over-Ear Headphones,"ANC, Spatial Audio, 20h battery, USB-C",59900
+3,Apple,MagSafe Charger 15W,Wireless Charger,"15W MagSafe, 1m braided cable, USB-C",4900
+4,Apple,Apple Watch Ultra 2,Smartwatch,"49mm, Always-On Retina, GPS+Cellular, 36h battery",89900
+5,Apple,Apple Pencil Pro,Stylus,"Squeeze gesture, Find My, hover, tilt sensitivity",11900
+6,Apple,MagSafe Battery Pack,Portable Charger,"1460mAh, magnetic attach, pass-through charging",10900
+7,Apple,Lightning to USB-C Cable 2m,Cable,"2m, braided, MFi certified",2200
+8,Apple,iPhone 15 Pro Silicone Case,Phone Case,"MagSafe compatible, microfibre lining, all colours",5900
+9,Apple,Apple 20W USB-C Adapter,Charger,"20W PD, compact, foldable pins",1900
+10,Apple,Apple Vision Pro Strap,Accessory,"Solo Knit Band, Light Seal Cushion included",15000
+11,Samsung,Galaxy Buds3 Pro,TWS Earbuds,"ANC, 360 Audio, IP57, 30h total, AuraGlow design",19999
+12,Samsung,Galaxy Watch Ultra,Smartwatch,"47mm, titanium, BioActive sensor, 48h battery",69999
+13,Samsung,45W Super Fast Charger,Charger,"45W PD 3.0 PPS, USB-C, compact design",3499
+14,Samsung,Galaxy Tab S9 Book Cover,Tablet Case,"S Pen holder, multi-angle stand, auto wake/sleep",6999
+15,Samsung,Wireless Charger Trio,Charger,"Charges phone + buds + watch simultaneously, 9W",5999
+16,Samsung,Galaxy SmartTag 2,Tracker,"UWB+BLE, IP67, 6-month battery, offline finding",3499
+17,Samsung,25W Travel Adapter,Charger,"25W AFC, USB-C, global voltage, fold-flat plug",1799
+18,Samsung,Galaxy S24 Clear Case,Phone Case,"Anti-yellow, MIL-810G, camera protection ridge",1999
+19,Samsung,Portable SSD T9 2TB,Storage,"2000MB/s read, USB 3.2 Gen 2x2, IP65, shock-proof",18999
+20,Samsung,DeX Station HDMI,Accessory,"Desktop mode, 4K HDMI, USB-A hub, fast charge",7999
+21,OnePlus,Buds Pro 3,TWS Earbuds,"50dB ANC, LHDC 5.0, 44h total, IP55",11999
+22,OnePlus,Watch 2R,Smartwatch,"46mm AMOLED, Wear OS, GPS, 100hr battery",12999
+23,OnePlus,100W SUPERVOOC Charger,Charger,"100W USB-C, GaN, multi-device, foldable",2499
+24,OnePlus,Nord Buds 3 Pro,TWS Earbuds,"49dB ANC, 12.4mm driver, 44h, IP55",4999
+25,OnePlus,Magnetic Power Bank 10K,Portable Charger,"10000mAh, 50W, Mag compatible, LED indicator",3999
+26,Xiaomi,Redmi Buds 6 Active,TWS Earbuds,"30dB ANC, 35h battery, IP54, Bluetooth 5.4",1999
+27,Xiaomi,Mi Band 9,Fitness Band,"1.62 AMOLED, SpO2, 14-day battery, 150 sports",2999
+28,Xiaomi,67W GaN Charger,Charger,"67W GaN, 3-port (2C+1A), foldable, compact",1999
+29,Xiaomi,Redmi Watch 4,Smartwatch,"1.97 AMOLED, Bluetooth calling, GPS, 20-day battery",4999
+30,Xiaomi,Mi 10000mAh Power Bank 3,Portable Charger,"10000mAh, 22.5W fast charge, dual USB-C",1699
+31,Google,Pixel Buds Pro 2,TWS Earbuds,"Silent Seal ANC, Gemini AI, 30h, IPX4",22999
+32,Google,Pixel Watch 3 45mm,Smartwatch,"AMOLED, ECG, Fitbit health, LTE, 24h battery",39999
+33,Google,Pixel Phone Stand,Accessory,"Charging stand, portrait/landscape, USB-C 18W",4499
+34,Google,30W USB-C Charger,Charger,"30W PD, foldable plug, universal voltage",2199
+35,Google,Pixel Tablet Case,Tablet Case,"Folio, kickstand, speaker passthrough",5499
+36,Sony,WF-1000XM5,TWS Earbuds,"Industry-best ANC, 8h+16h, LDAC, IP54",24990
+37,Sony,WH-1000XM5,Over-Ear Headphones,"ANC, 30h battery, LDAC, multipoint, foldable",29990
+38,Sony,Xperia 1 VI Style Cover,Phone Case,"Stand function, card slots, vegan leather",4999
+39,Sony,SRS-XB100,Bluetooth Speaker,"IP67, 16h, hands-free, USB-C, 46g compact",3999
+40,Sony,UCH20 USB-C Fast Charger,Charger,"18W QC 3.0, USB-A, global plug",1499
+41,Motorola,Moto Buds+,TWS Earbuds,"ANC, Bose tuned, 36h, IP55, multi-point",7999
+42,Motorola,Moto Watch 70,Smartwatch,"1.3 display, SpO2, 10-day battery, IP68",5999
+43,Motorola,TurboPower 68W Charger,Charger,"68W, USB-C PD, GaN, travel-size",2299
+44,Nothing,Ear (2),TWS Earbuds,"LHDC, 11.6mm driver, ANC, 36h, IP55, clear design",9999
+45,Nothing,Ear (open),Open-Ear Buds,"Open design, 30h, dual connection, bass lock",8999
+46,Nothing,Phone (2) Clear Case,Phone Case,"Scratch-proof, transparent, 1.5mm raised bezels",1499
+47,iQOO,TWS 3 Pro,TWS Earbuds,"45dB ANC, 44h, LHDC, IP55, gaming low-latency",5999
+48,Vivo,X200 Flip Case,Phone Case,"Eco-leather, hinge cutout, kickstand, MagSafe",2999
+49,Samsung,Galaxy Ring,Health Tracker,"9-axis sensor, SpO2, sleep tracking, IP68, titanium",29999
+50,Apple,AirTag 4-Pack,Tracker,"UWB precision finding, IP67, 1-year battery, Find My",10900
