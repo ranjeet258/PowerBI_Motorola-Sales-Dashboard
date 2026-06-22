@@ -1,5 +1,7 @@
 # Mobile Sales Dashboard Analysis
 
+![DashBoard](Mobile_Sales_data\Mobile_Sales_DashBoard.png)
+
 ## Problem Statement
 The objective of this project is to analyze mobile and tech accessory sales data to evaluate the performance of major smartphone brands. By analyzing metrics like units sold, unit prices, and customer ratings, the goal is to identify primary revenue drivers and understand brand market share to facilitate data-driven business decisions.
 
